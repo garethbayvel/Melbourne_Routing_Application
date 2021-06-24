@@ -292,7 +292,7 @@ def update_figure(selected_source, selected_destination, selected_month, selecte
     longitude = center['Source_lon'].astype(float)
 
     # Initializing our Mapbox token so we can have nice map features
-    MAPBOX_ACCESSTOKEN = 'pk.eyJ1IjoiZ2FyZXRoY2JheXZlbCIsImEiOiJja3BkeHNoaHEwN3AwMnZvZW53d3VmeDAxIn0.EYjhjU0oqisdjO4jY7vpyA'
+    MAPBOX_ACCESSTOKEN = ''
     plotly.express.set_mapbox_access_token(MAPBOX_ACCESSTOKEN)
 
     if selected_map == 'Uber':
