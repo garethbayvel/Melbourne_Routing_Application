@@ -8,7 +8,7 @@ Dash: The plots below are all contained within a plotly interactive dash applica
 
 1. RadioItem: The uber/pedestuan radioitem allows the user to select which dataset they wish to plot. Notably, our dropdowns and sliders all update according to which dataset is selected.
 
-1.	Graph-Type RadioItem: The Bar/Box and Heatmap/Covid-Bar radioitem allows the user to select which type of graph they wish to plot. Notably, the covid-bar is only applicable to the Pedestrian dataset.
+1.	Graph-Type RadioItem: The Bar/Box and Heatmap/Covid-Bar radioitem allows the user to select which type of graph they wish to plot. Notably, the covid bar is only applicable to the Pedestrian dataset.
 
 1.	Source Dropdown: The source dropdown contains all the source locations for our uber movement data sorted according to their suburb. Additionally, this dropdown is all used as the source location of our sensors which are sorted alphabetically.
 
